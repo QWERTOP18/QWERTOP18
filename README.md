@@ -8,7 +8,7 @@
 
 <!-- https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,c,go,js" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,c,go,js,bash" />
 <br>
 
 
