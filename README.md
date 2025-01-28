@@ -19,6 +19,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 
+<!-- actions tab から Update README -->
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme?tab=readme-ov-file -->
 
