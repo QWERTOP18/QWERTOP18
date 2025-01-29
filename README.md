@@ -7,13 +7,13 @@
 
 
 <!-- https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
+## 🔥 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,c,js,bash" />
 
 <br>
-<!-- https://arc.net/l/quote/zizyykfh -->
-## 🖊️ learning
-<img alt="my learnig" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,react,emacs" />
+
+## 🌱️ Learning
+<img alt="my learnig" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,react,cpp" />
 
 <!-- <div align="left">  -->
   <!-- <img alt="stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=QWERTOP18&theme=vue-dark&layout=compact" /> -->
