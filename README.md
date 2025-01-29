@@ -10,11 +10,11 @@
 ## 🔥 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,c,js,bash" />
 
-<br>
 
 ## 🌱️ Learning
 <img alt="my learnig" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,react,cpp" />
 
+<br>
 <!-- <div align="left">  -->
   <!-- <img alt="stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=QWERTOP18&theme=vue-dark&layout=compact" /> -->
   <!-- <img alt="lang" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QWERTOP18&theme=vue-dark&layout=compact" /> -->
