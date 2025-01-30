@@ -29,8 +29,8 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme?tab=readme-ov-file -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/QWERTOP18/PUSH_SWAP/pull/1) in [QWERTOP18/PUSH_SWAP](https://github.com/QWERTOP18/PUSH_SWAP)
-2. 💪 Opened PR [#1](https://github.com/QWERTOP18/PUSH_SWAP/pull/1) in [QWERTOP18/PUSH_SWAP](https://github.com/QWERTOP18/PUSH_SWAP)
+1. 💪 Opened PR [#1](https://github.com/QWERTOP18/JS_TUTORIAL/pull/1) in [QWERTOP18/JS_TUTORIAL](https://github.com/QWERTOP18/JS_TUTORIAL)
+2. 🎉 Merged PR [#1](https://github.com/QWERTOP18/PUSH_SWAP/pull/1) in [QWERTOP18/PUSH_SWAP](https://github.com/QWERTOP18/PUSH_SWAP)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
