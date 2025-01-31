@@ -7,19 +7,24 @@
 
 
 <!-- https://arc.net/l/quote/zizyykfh -->
-## 🔥 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,c,js,bash" />
+## ✨ Advanced in
+<img alt="my advaned skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=bash" />
 
+## 🔥 Proficient in
+<img alt="my proficien skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,c,git,md" />
 
-## 🌱️ Learning
-<img alt="my learnig" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,docker,react,cpp,typescript,ubuntu,emacs,rust" />
+## 🌱️ Progress in
+<img alt="my learnig skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,docker,js,cpp,ubuntu,rust,pycharm" />
 
-<br>
+## 🐠 Interested in
+<img alt="my interested skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=react,typescript,emacs" />
+
 <!-- <div align="left">  -->
   <!-- <img alt="stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=QWERTOP18&theme=vue-dark&layout=compact" /> -->
   <!-- <img alt="lang" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QWERTOP18&theme=vue-dark&layout=compact" /> -->
 <!-- </div> -->
 
+<br>
 
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
