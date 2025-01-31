@@ -12,7 +12,7 @@
 
 
 ## 🌱️ Learning
-<img alt="my learnig" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,docker,react,cpp,typescript,ubuntu" />
+<img alt="my learnig" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,docker,react,cpp,typescript,ubuntu,emacs,rust" />
 
 <br>
 <!-- <div align="left">  -->
