@@ -34,8 +34,8 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme?tab=readme-ov-file -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/QWERTOP18/learn-github-actions/pull/1#issuecomment-2628856553) in [QWERTOP18/learn-github-actions](https://github.com/QWERTOP18/learn-github-actions)
-2. 💪 Opened PR [#1](https://github.com/QWERTOP18/learn-github-actions/pull/1) in [QWERTOP18/learn-github-actions](https://github.com/QWERTOP18/learn-github-actions)
+1. ❌ Closed PR [#31](https://github.com/ShotaTanemura/learn-github-actions/pull/31) in [ShotaTanemura/learn-github-actions](https://github.com/ShotaTanemura/learn-github-actions)
+2. ❌ Closed PR [#13](https://github.com/ShotaTanemura/learn-github-actions/pull/13) in [ShotaTanemura/learn-github-actions](https://github.com/ShotaTanemura/learn-github-actions)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
