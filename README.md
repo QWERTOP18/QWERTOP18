@@ -34,8 +34,8 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme?tab=readme-ov-file -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/QWERTOP18/JS_TUTORIAL/pull/1) in [QWERTOP18/JS_TUTORIAL](https://github.com/QWERTOP18/JS_TUTORIAL)
-2. 🗣 Commented on [#1](https://github.com/QWERTOP18/JS_TUTORIAL/pull/1#issuecomment-2622962337) in [QWERTOP18/JS_TUTORIAL](https://github.com/QWERTOP18/JS_TUTORIAL)
+1. 🗣 Commented on [#1](https://github.com/QWERTOP18/learn-github-actions/pull/1#issuecomment-2628856553) in [QWERTOP18/learn-github-actions](https://github.com/QWERTOP18/learn-github-actions)
+2. 💪 Opened PR [#1](https://github.com/QWERTOP18/learn-github-actions/pull/1) in [QWERTOP18/learn-github-actions](https://github.com/QWERTOP18/learn-github-actions)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
