@@ -39,13 +39,15 @@
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-137-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 138 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,5 +123,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/QWERTOP18/QWERTOP18/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2025 18:42:01 UTC
+ Last Updated on 02/02/2025 18:43:22 UTC
 <!--END_SECTION:waka-->
