@@ -8,10 +8,10 @@
 
 <!-- https://arc.net/l/quote/zizyykfh -->
 ## ✨ Advanced in
-<img alt="my advaned skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=bash" />
+<img alt="my advaned skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=" />
 
 ## 🔥 Proficient in
-<img alt="my proficien skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,c,git,md" />
+<img alt="my proficien skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,c,bash" />
 
 ## 🌱️ Progress in
 <img alt="my learnig skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,docker,js,cpp,ubuntu,rust,pycharm" />
