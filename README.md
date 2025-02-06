@@ -7,6 +7,10 @@
 
 
 <!-- https://arc.net/l/quote/zizyykfh -->
+## Currently focus on 
+<img alt="focus" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rails,go,c" />
+<hr>
+
 ## ✨ Advanced in
 <img alt="my advaned skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=" />
 
