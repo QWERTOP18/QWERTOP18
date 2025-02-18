@@ -1,8 +1,4 @@
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=QWERTOP18" />
-</div>
-
 <!-- ## 📚 Article
 ### WIP
 - [GO言語で簡単なShellを実装する🐟🐠🐡](https://zenn.dev/qwertop18/books/39867c5ae0066f)
