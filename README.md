@@ -5,10 +5,6 @@
 -->
 
 <!-- https://arc.net/l/quote/zizyykfh -->
-## Currently focus on 
-<img alt="focus" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rails,go,c" />
-<hr>
-
 ## ✨ Advanced in
 <img alt="my advaned skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=" />
 
@@ -16,10 +12,10 @@
 <img alt="my proficien skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,c,bash" />
 
 ## 🌱️ Progress in
-<img alt="my learnig skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,docker,js,cpp,ubuntu,pycharm" />
+<img alt="my learnig skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rails,go,react,docker,js,cpp,linux" />
 
 ## 🐠 Interested in
-<img alt="my interested skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=react,typescript,emacs" />
+<img alt="my interested skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=wasm,gin,nextjs,emacs" />
 
 <!-- <div align="left">  -->
   <!-- <img alt="stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=QWERTOP18&theme=vue-dark&layout=compact" /> -->
