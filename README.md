@@ -12,7 +12,7 @@
 <img alt="my proficien skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,c,bash" />
 
 ## 🌱️ Progress in
-<img alt="my learnig skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rails,go,react,threejs,docker,js,cpp,linux" />
+<img alt="my learnig skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rails,go,react,threejs,docker,js,cpp,linux,firebase,bootstrap" />
 
 ## 🐠 Interested in
 <img alt="my interested skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=wasm,gin,nextjs,emacs" />
