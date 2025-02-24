@@ -29,7 +29,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -37,21 +37,19 @@
 
 > 📦 42.4 kB Used in GitHub's Storage 
  > 
-> 🏆 298 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
  > 
-> 🔑 39 Private Repositories 
+> 🔑 42 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-🌆 Daytime                265 commits         ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-🌃 Evening                257 commits         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-🌙 Night                  431 commits         ██████████░░░░░░░░░░░░░░░   40.70 % 
+🌞 Morning                106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+🌆 Daytime                269 commits         ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+🌃 Evening                263 commits         ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+🌙 Night                  434 commits         ██████████░░░░░░░░░░░░░░░   40.49 % 
 ```
 
 
@@ -61,37 +59,27 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Ruby                     17 hrs 2 mins       ███████████░░░░░░░░░░░░░░   43.34 % 
-ERB                      9 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-Markdown                 6 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-JavaScript               2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-SCSS                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Ruby                     10 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   31.29 % 
+Markdown                 6 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+ERB                      5 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+JavaScript               4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+CSS                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 45 mins      █████████████████████░░░░   83.28 % 
-GoLand                   6 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-CLion                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+VS Code                  26 hrs 47 mins      ████████████████████░░░░░   79.37 % 
+GoLand                   6 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+CLion                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Blender                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Cursor                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Mac                      39 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 45 mins      █████████████████████████   100.00 % 
 ```
-
-**I Mostly Code in C** 
-
-```text
-Python                   13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-Ruby                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/QWERTOP18/QWERTOP18/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2025 06:52:03 UTC
+ Last Updated on 24/02/2025 18:47:58 UTC
 <!--END_SECTION:waka-->
