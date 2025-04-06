@@ -19,41 +19,10 @@
  > 
 > 🔑 59 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                253 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-🌆 Daytime                1004 commits        ███████░░░░░░░░░░░░░░░░░░   29.88 % 
-🌃 Evening                965 commits         ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-🌙 Night                  1138 commits        ████████░░░░░░░░░░░░░░░░░   33.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Python                   16 hrs 24 mins      ███████████░░░░░░░░░░░░░░   42.91 % 
-JavaScript               6 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Markdown                 5 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-C                        2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Bash                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-
-🔥 Editors: 
-VS Code                  25 hrs              ████████████████░░░░░░░░░   65.35 % 
-Cursor                   13 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   34.65 % 
-
-💻 Operating System: 
-Mac                      34 hrs 41 mins      ███████████████████████░░   90.68 % 
-Linux                    3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/QWERTOP18/QWERTOP18/main/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2025 18:45:54 UTC
+ Last Updated on 06/04/2025 18:47:18 UTC
 <!--END_SECTION:waka-->
