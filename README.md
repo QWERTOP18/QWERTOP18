@@ -11,27 +11,57 @@
 ## 🏃‍♀️ Activities
 
 <!--START_SECTION:waka-->
-
 ![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 69.7 kB Used in GitHub's Storage
->
-> 🏆 913 Contributions in the Year 2025
->
+> 📦 77.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 921 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
->
-> 📜 30 Public Repositories
->
-> 🔑 64 Private Repositories
->
-> **Timeline**
+ > 
+> 📜 30 Public Repositories 
+ > 
+> 🔑 64 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                321 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+🌆 Daytime                1052 commits        ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+🌃 Evening                1021 commits        ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+🌙 Night                  1172 commits        ████████░░░░░░░░░░░░░░░░░   32.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+C                        16 hrs 38 mins      ████████████░░░░░░░░░░░░░   47.48 % 
+C++                      9 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+Markdown                 4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Makefile                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Python                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+
+🔥 Editors: 
+VS Code                  34 hrs 39 mins      █████████████████████████   98.87 % 
+Cursor                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+
+💻 Operating System: 
+Linux                    27 hrs 38 mins      ████████████████████░░░░░   78.85 % 
+Mac                      7 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+```
+
+**Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/QWERTOP18/QWERTOP18/main/assets/bar_graph.png)
 
-Last Updated on 12/04/2025 18:47:44 UTC
 
+ Last Updated on 13/04/2025 18:47:21 UTC
 <!--END_SECTION:waka-->
