@@ -1,28 +1,13 @@
 ## ☕️ Works
 
-<div align="center">
+| Project | Preview | Link | frame | | description |
+|-------------|------------|--------|------------|-----------|-----------|
+| RayTrace | <img src="./assets/bug1.png" alt="RT" width="100px"> | [GitHub](https://github.com/QWERTOP18/MINIRT) | <img src="https://skillicons.dev/icons?i=c" height="50px"> || A ray tracing renderer fully implemented from scratch in C|
+| Hibi | <img src="./assets/hibi.png" alt="Hibi" width="100px"> | [PDF](https://github.com/QWERTOP18/SLIDES/blob/main/Light%20slides.pdf) | <img src="https://skillicons.dev/icons?i=rails,js" height="50px"> |OpenAI||
+| TeethJocker | <img src="./assets/teeth.png" alt="Teeth" width="100px"> | [PDF](https://github.com/QWERTOP18/SLIDES/blob/main/Teeth%20Jocker.pdf) | <img src="https://skillicons.dev/icons?i=c,nextjs" height="50px"> |ESP32||
+| Cafe lp | <img src="./assets/home.png" alt="Cafe" width="100px"> | [GitHub](https://github.com/QWERTOP18s/RAILS_DEMO_CAFE_LP/tree/master/.md/assets) | <img src="https://skillicons.dev/icons?i=scss,css" height="50px"> |||
 
-  <a href="https://github.com/QWERTOP18/MINIRT" style="margin: 10px;">
-    <img src="./assets/bug1.png" alt="RT" width="150px"><br>
-    <sub>RayTrace</sub>
-  </a>
 
-  <a href="https://github.com/QWERTOP18/SLIDES/blob/main/Light%20slides.pdf" style="margin: 10px;">
-    <img src="./assets/hibi.png" alt="Hibi" width="150px"><br>
-    <sub>Hibi</sub>
-  </a>
-
-  <a href="https://github.com/QWERTOP18/SLIDES/blob/main/Teeth%20Jocker.pdf" style="margin: 10px;">
-    <img src="./assets/teeth.png" alt="Teeth" width="150px"><br>
-    <sub>TeethJocker</sub>
-  </a>
-
-  <a href="https://github.com/QWERTOP18s/RAILS_DEMO_CAFE_LP/tree/master/.md/assets" style="margin: 10px;">
-    <img src="./assets/home.png" alt="Cafe" width="150px"><br>
-    <sub>Cafe lp</sub>
-  </a>
-
-</div>
 
 ## 🏃‍♀️ Activities
 
