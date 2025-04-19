@@ -13,57 +13,24 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2058%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 81.3 kB Used in GitHub's Storage 
+> 📦 81.4 kB Used in GitHub's Storage 
  > 
-> 🏆 990 Contributions in the Year 2025
+> 🏆 1,043 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 70 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                319 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-🌆 Daytime                1063 commits        ███████░░░░░░░░░░░░░░░░░░   29.70 % 
-🌃 Evening                1014 commits        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-🌙 Night                  1183 commits        ████████░░░░░░░░░░░░░░░░░   33.05 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-C                        14 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   37.21 % 
-C++                      10 hrs 41 mins      ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-Markdown                 6 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Other                    3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Makefile                 1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-
-🔥 Editors: 
-VS Code                  35 hrs 22 mins      ███████████████████████░░   92.49 % 
-Zed                      1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Neovim                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Cursor                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-
-💻 Operating System: 
-Linux                    25 hrs 26 mins      █████████████████░░░░░░░░   66.49 % 
-Mac                      12 hrs 49 mins      ████████░░░░░░░░░░░░░░░░░   33.51 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/QWERTOP18/QWERTOP18/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2025 18:49:37 UTC
+ Last Updated on 19/04/2025 18:47:03 UTC
 <!--END_SECTION:waka-->
