@@ -1,10 +1,21 @@
- <a href="https://monkeytype.com/profile/YOUR_MONKEYTYPE_USERNAME">
+## WORKS🍋
+
+| Project     | Created At | Duration | Preview                                                        | Link                                                                       | Frame                                                                                   | Description                                                            |
+| ----------- | ---------- | -------- | -------------------------------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| IceBreaker  | 2025-04    | 2 days   | <img src="./assets/IceBreaker.png" alt="Ice" width="100px">    | [PDF](https://github.com/QWERTOP18/SLIDES/blob/main/IceBreaker.pdf)        | <img src="https://skillicons.dev/icons?i=fastapi,mongodb,react,tailwind" height="50px"> | function calling                                                       |
+| RayTrace    | 2024-04    | a month  | <img src="./assets/wolf.png" alt="RT" width="100px">           | [GitHub](https://github.com/QWERTOP18/MINIRT)                              | <img src="https://skillicons.dev/icons?i=c" height="50px">                              | Ray tracing engine built from scratch in C with no external libraries. |
+| Hibi        | 2024-03    | 1 week   | <img src="./assets/Hibi.png" alt="Hibi" width="100px">         | [PDF](https://github.com/QWERTOP18/SLIDES/blob/main/Hibi.pdf)              | <img src="https://skillicons.dev/icons?i=rails,js,figma" height="50px">                 |                                                                        |
+| TeethJocker | 2024-03    | 3 days   | <img src="./assets/TeethJocker.png" alt="Teeth" width="100px"> | [PDF](https://github.com/QWERTOP18/SLIDES/blob/main/TeethJocker.pdf)       | <img src="https://skillicons.dev/icons?i=c,nextjs" height="50px">                       | ESP32                                                                  |
+| Cafe lp     | 2024-03    | 1 week   | <img src="./assets/cafe.png" alt="Cafe" width="100px">         | [GitHub](https://github.com/QWERTOP18s/RAILS_DEMO_CAFE_LP)                 | <img src="https://skillicons.dev/icons?i=scss,css,rails" height="50px">                 |
+| GO Shell    | 2024-02    | a month  | <img src="./assets/go-shell.png" alt="go" width="100px">       | [Books](https://github.com/QWERTOP18/ZENN/tree/main/books/go-shell-202502) | <img src="https://skillicons.dev/icons?i=go,bash" height="50px">                        |                                                                        |
+
+## Activities⛹️‍♀️
+
+ <a href="https://monkeytype.com/profile/qwertop18">
    <img src="https://raw.githubusercontent.com/QWERTOP18/QWERTOP18/monkeytype-readme/SVG_NAME" alt="My Monkeytype profile" />
  </a>
 
 <!--START_SECTION:waka-->
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-92-blue)
 
 **🐱 My GitHub Data**
 
