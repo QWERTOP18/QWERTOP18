@@ -12,7 +12,7 @@
 ## Activities⛹️‍♀️
 
  <a href="https://monkeytype.com/profile/qwertop18">
-   <img src="https://raw.githubusercontent.com/QWERTOP18/QWERTOP18/monkeytype-readme/SVG_NAME" alt="My Monkeytype profile" />
+   <img src="https://github.com/QWERTOP18/QWERTOP18/blob/monkeytype-readme/monkeytype-readme-lb-pb.svg" alt="My Monkeytype profile" />
  </a>
 
 <!--START_SECTION:waka-->
