@@ -1,3 +1,4 @@
+<!-- 
 ## WORKS🍋
 
 | Project     | Created At | Duration | Preview                                                        | Link                                                                       | Frame                                                                                   | Description                                                            |
@@ -9,7 +10,7 @@
 | TeethJocker | 2025-03    | 3 days   | <img src="https://github.com/QWERTOP18/QWERTOP18/blob/main/assets/TeethJocker.png" alt="Teeth" width="100px"> | [PDF](https://github.com/QWERTOP18/SLIDES/blob/main/TeethJocker.pdf)       | <img src="https://skillicons.dev/icons?i=c,nextjs" height="50px">                       | ESP32                                                                  |
 | Cafe lp     | 2025-03    | 1 week   | <img src="https://github.com/QWERTOP18/QWERTOP18/blob/main/assets/cafe.png" alt="Cafe" width="100px">         | [GitHub](https://github.com/QWERTOP18s/RAILS_DEMO_CAFE_LP)                 | <img src="https://skillicons.dev/icons?i=scss,css,rails" height="50px">                 |
 | GO Shell    | 2025-02    | a month  | <img src="https://github.com/QWERTOP18/QWERTOP18/blob/main/assets/go-shell.png" alt="go" width="100px">       | [Books](https://github.com/QWERTOP18/ZENN/tree/main/books/go-shell-202502) | <img src="https://skillicons.dev/icons?i=go,bash" height="50px">                        |                                                                        |
-
+-->
 ## Activities⛹️‍♀️
 
  <a href="https://monkeytype.com/profile/qwertop18">
