@@ -18,14 +18,46 @@
  </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-797%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-802%20hrs%2058%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.4%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                553 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+🌆 Daytime                1581 commits        ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+🌃 Evening                1686 commits        ████████░░░░░░░░░░░░░░░░░   31.51 % 
+🌙 Night                  1531 commits        ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+TypeScript               18 hrs 44 mins      █████████████░░░░░░░░░░░░   52.90 % 
+YAML                     2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Bash                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Markdown                 1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+JSON                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+
+🔥 Editors: 
+Cursor                   26 hrs 13 mins      ███████████████████░░░░░░   74.04 % 
+VS Code                  9 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+💻 Operating System: 
+Mac                      33 hrs 41 mins      ████████████████████████░   95.14 % 
+Linux                    1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/QWERTOP18/QWERTOP18/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2025 19:02:31 UTC
+ Last Updated on 06/08/2025 18:59:41 UTC
 <!--END_SECTION:waka-->
