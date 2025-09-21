@@ -18,14 +18,44 @@
  </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-968%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-977%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                525 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+🌆 Daytime                1603 commits        ████████░░░░░░░░░░░░░░░░░   31.67 % 
+🌃 Evening                1499 commits        ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+🌙 Night                  1434 commits        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+TypeScript               22 hrs 52 mins      ██████████████████░░░░░░░   73.08 % 
+YAML                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Vue.js                   2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+JSON                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+
+🔥 Editors: 
+Cursor                   30 hrs 56 mins      █████████████████████████   98.83 % 
+VS Code                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+
+💻 Operating System: 
+Mac                      31 hrs 18 mins      █████████████████████████   100.00 % 
+```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/QWERTOP18/QWERTOP18/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2025 18:46:12 UTC
+ Last Updated on 21/09/2025 18:48:36 UTC
 <!--END_SECTION:waka-->
