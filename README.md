@@ -18,46 +18,14 @@
  </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C003%20hrs%2030%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                525 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-🌆 Daytime                1604 commits        ████████░░░░░░░░░░░░░░░░░   31.58 % 
-🌃 Evening                1515 commits        ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-🌙 Night                  1435 commits        ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-TypeScript               18 hrs 49 mins      ███████████████░░░░░░░░░░   61.17 % 
-YAML                     2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-OCaml                    2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-C#                       1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-C                        1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-
-🔥 Editors: 
-Cursor                   25 hrs 30 mins      █████████████████████░░░░   82.88 % 
-VS Code                  5 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Neovim                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-
-💻 Operating System: 
-Mac                      29 hrs 4 mins       ████████████████████████░   94.46 % 
-Linux                    1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20million%20lines%20of%20code-blue)
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/QWERTOP18/QWERTOP18/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2025 18:51:38 UTC
+ Last Updated on 27/09/2025 18:47:56 UTC
 <!--END_SECTION:waka-->
