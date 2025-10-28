@@ -13,10 +13,6 @@
 -->
 ## Activities⛹️‍♀️
 
- <a href="https://monkeytype.com/profile/qwertop18">
-   <img src="https://github.com/QWERTOP18/QWERTOP18/blob/monkeytype-readme/monkeytype-readme-lb-pb.svg" alt="My Monkeytype profile" />
- </a>
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C086%20hrs%2035%20mins-blue)
 
