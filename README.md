@@ -14,14 +14,14 @@
 ## Activities⛹️‍♀️
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C094%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C100%20hrs%202%20mins-blue)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                1 commits           ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌃 Evening                3 commits           ███████████████████░░░░░░   75.00 % 
+🌆 Daytime                2 commits           ██████████░░░░░░░░░░░░░░░   40.00 % 
+🌃 Evening                3 commits           ███████████████░░░░░░░░░░   60.00 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -46,7 +46,10 @@ VS Code                  2 hrs 41 mins       ███░░░░░░░░�
 Mac                      22 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/QWERTOP18/QWERTOP18/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2025 18:56:00 UTC
+ Last Updated on 29/10/2025 18:54:11 UTC
 <!--END_SECTION:waka-->
