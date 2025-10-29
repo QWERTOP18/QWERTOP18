@@ -46,9 +46,6 @@ VS Code                  2 hrs 41 mins       ███░░░░░░░░�
 Mac                      22 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/QWERTOP18/QWERTOP18/main/assets/bar_graph.png)
 
 
  Last Updated on 28/10/2025 18:56:00 UTC
